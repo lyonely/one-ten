@@ -1,7 +1,10 @@
-# SGTS Assistant: Revolutionizing Developer Support at Our Company
+# 1-10
+<h3> A SGTS chatbot that can also write jokes. </h3>
 
-## Team Member
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/ae74cdb3-c75f-4746-a217-a072b4b21c82" />
 
+## Team Members
+Team 110
 - Kevin Ng (CEP)
 - Justin Hoe (CEP)
 - Xu Yangbo (CEP)
@@ -13,14 +16,14 @@ The SGTS (Singapore Government Tech Suite) offers a comprehensive ecosystem of t
 
 ## Problem
 
-Despite extensive online documentation, developers struggle to adopt SGTS products. After consulting product managers, technical writers, and reviewing user queries, we identified key pain points:
+Despite extensive online documentation, developers struggle to adopt SGTS products. After consulting product managers, technical writers, and reviewing user queries, we identified several key pain points:
 
 - **Incomplete Awareness of Solutions**: Users struggle to properly assess and compare SGTS tools due to the sheer quantity of available solutions.
 - **Preference for Interactive Q&A**: For new information, developers favor conversational search over sifting through lengthy documentation.
 - **Siloed Support**: Cross-product queries spanning multiple teams are repeatedly redirected, increasing resolution times.
 - **Excessive Basic Queries**: Engineers and product managers are frequently distracted by routine questions, limiting focus on more innovative and strategic tasks.
 
-## Product Features
+## Product Features & How It Works
 
 The SGTS Assistant bot leverages RAG techniques on the entire corpus of SGTS documents. It quickly retrieves the most relevant answers from our **extensive library of documentations and product descriptions**. Users can now engage in natural language queries and **receive precise, context-aware answers in real time**.
 
@@ -46,9 +49,7 @@ The SGTS Assistant not only streamlines support but also actively promotes our s
 - **Reducing Ops Team Burdens**:
 As our SGTS Assistant integrates with various platforms to automate simple service requests, we can reduce the need to submit tickets and shorten waiting times for manual processing. It provides the user with a better developer experience, and also reduces the burdens on operation team.
 
-## How it works
-
-### Getting Started
+## Getting Started
 
 1. Access the `1to10` chatbot from the `Apps` available in Slack under `GDS`
 <p align="center">
@@ -62,7 +63,7 @@ As our SGTS Assistant integrates with various platforms to automate simple servi
 
 <h2><p align="center">It's that easy!</p></h2>
 
-### Example Usage
+## Example Usage
 
 See below for some cool examples of what you can ask:
 
@@ -83,7 +84,7 @@ See below for some cool examples of what you can ask:
 
 - Crafting eloquent jokes in the context of GovTech products and tools!
 <p align="center">
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/ae74cdb3-c75f-4746-a217-a072b4b21c82" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/43a8fef1-e9a9-46f3-a91a-c2f0a3263b1d" />
 </p>
 
 ## Next steps
