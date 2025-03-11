@@ -1,10 +1,9 @@
-# 1-10
-<h3> A SGTS chatbot that can also write jokes. </h3>
+# "1-10" SGTS Assistant (DT2, Team110)
 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/ae74cdb3-c75f-4746-a217-a072b4b21c82" />
+###### Search "1to10" app on Slack to try!
 
 ## Team Members
-Team 110
+
 - Kevin Ng (CEP)
 - Justin Hoe (CEP)
 - Xu Yangbo (CEP)
@@ -49,42 +48,34 @@ The SGTS Assistant not only streamlines support but also actively promotes our s
 - **Reducing Ops Team Burdens**:
 As our SGTS Assistant integrates with various platforms to automate simple service requests, we can reduce the need to submit tickets and shorten waiting times for manual processing. It provides the user with a better developer experience, and also reduces the burdens on operation team.
 
-## Getting Started
-
-1. Access the `1to10` chatbot from the `Apps` available in Slack under `GDS`
-<p align="center">
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/a1621aae-af6e-47ef-9db3-4d21ecdb195a" />
-</p>
-
-2. Start typing your query in the chatbox.
-<p align="center">
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/60f553b9-a9df-4564-8a10-67f67ca4a326" />
-</p>
-
-<h2><p align="center">It's that easy!</p></h2>
-
-## Example Usage
+## How It Helps
 
 See below for some cool examples of what you can ask:
 
-- Adding a user to a techpass group
+### Suggest SGTS Tools and Guide Onboarding
 <p align="center">
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/31bccb4a-c513-460d-b71a-728973c25bff" />
+<img width="400" alt="image" src="./images/demo_RAG.png" />
 </p>
 
-- Creating a static website with S3
+### Fulfill Service Requests for TechPass
 <p align="center">
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/c5ef4967-dcc6-455d-ad68-88b81313cdaf" />
+<img width="400" alt="image" src="./images/demo_Techpass.png" />
 </p>
 
-- Checking maintenance times and raising JIRA tickets
+### Propose Architecture and Solutions
 <p align="center">
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/b017a4fd-403b-4cf5-a09b-4f20aa85c00a" />
+<img width="400" alt="image" src="./images/demo_architecture.png" />
 </p>
 
-- Crafting eloquent jokes in the context of GovTech products and tools!
+### Check Maintenance Times and Raise Incident Tickets
+<p align="left">
+<img width="400" alt="image" src="./images/demo_jira_1.png" />
+<img width="400" alt="image" src="./images/demo_jira_2.png" />
+</p>
+
+### Craft Eloquent Jokes in the Context of GovTech Products and Tools!
 <p align="center">
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/43a8fef1-e9a9-46f3-a91a-c2f0a3263b1d" />
+<img width="300" alt="image" src="./images/demo_joke.png" />
 </p>
 
 ## Next steps
