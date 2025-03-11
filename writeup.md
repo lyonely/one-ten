@@ -48,9 +48,19 @@ As our SGTS Assistant integrates with various platforms to automate simple servi
 
 ## How it works
 
-1. Access the bot via Slack by typing `team110` in the search bar and selecting the app.
-2. Start conversing the with the bot.
-3. It's that easy!
+1. Select the `Add apps` option under `Apps` on the left sidebar.
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/65be81e7-6a25-4ac4-acf4-8aa7e0c7b4a6" />
+
+2. Search for the `1to10` app under `GDS`.
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/a1621aae-af6e-47ef-9db3-4d21ecdb195a" />
+
+3. Start typing your query in the chatbox.
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/60f553b9-a9df-4564-8a10-67f67ca4a326" />
+
+4. Check the thread for the reply.
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/c1aa9d18-e9e7-4ca0-b7f3-72965fbee4df" />
+
+5. It's that easy!
 
 ## Next steps
 
