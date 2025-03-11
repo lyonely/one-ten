@@ -22,7 +22,7 @@ Despite extensive online documentation, developers struggle to adopt SGTS produc
 - **Siloed Support**: Cross-product queries spanning multiple teams are repeatedly redirected, increasing resolution times.
 - **Excessive Basic Queries**: Engineers and product managers are frequently distracted by routine questions, limiting focus on more innovative and strategic tasks.
 
-## Product Features & How It Works
+## Product Features
 
 The SGTS Assistant bot leverages RAG techniques on the entire corpus of SGTS documents. It quickly retrieves the most relevant answers from our **extensive library of documentations and product descriptions**. Users can now engage in natural language queries and **receive precise, context-aware answers in real time**.
 
@@ -54,28 +54,28 @@ See below for some cool examples of what you can ask:
 
 ### Suggest SGTS Tools and Guide Onboarding
 <p align="center">
-<img width="400" alt="image" src="./images/demo_RAG.png" />
+<img width="400" alt="image" src="https://github.com/lyonely/one-ten/blob/main/images/demo_RAG.png?raw=true" />
 </p>
 
 ### Fulfill Service Requests for TechPass
 <p align="center">
-<img width="400" alt="image" src="./images/demo_Techpass.png" />
+<img width="400" alt="image" src="https://github.com/lyonely/one-ten/blob/main/images/demo_Techpass.png?raw=true" />
 </p>
 
 ### Propose Architecture and Solutions
 <p align="center">
-<img width="400" alt="image" src="./images/demo_architecture.png" />
+<img width="400" alt="image" src="https://github.com/lyonely/one-ten/blob/main/images/demo_architecture.png?raw=true" />
 </p>
 
 ### Check Maintenance Times and Raise Incident Tickets
 <p align="left">
-<img width="400" alt="image" src="./images/demo_jira_1.png" />
-<img width="400" alt="image" src="./images/demo_jira_2.png" />
+<img width="400" alt="image" src="https://github.com/lyonely/one-ten/blob/main/images/demo_jira_1.png?raw=true" />
+<img width="400" alt="image" src="https://github.com/lyonely/one-ten/blob/main/images/demo_jira_2.png?raw=true" />
 </p>
 
 ### Craft Eloquent Jokes in the Context of GovTech Products and Tools!
 <p align="center">
-<img width="300" alt="image" src="./images/demo_joke.png" />
+<img width="300" alt="image" src="https://github.com/lyonely/one-ten/blob/main/images/demo_joke.png?raw=true" />
 </p>
 
 ## Next steps
