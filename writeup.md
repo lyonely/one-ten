@@ -48,19 +48,43 @@ As our SGTS Assistant integrates with various platforms to automate simple servi
 
 ## How it works
 
-1. Select the `Add apps` option under `Apps` on the left sidebar.
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/65be81e7-6a25-4ac4-acf4-8aa7e0c7b4a6" />
+### Getting Started
 
-2. Search for the `1to10` app under `GDS`.
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/a1621aae-af6e-47ef-9db3-4d21ecdb195a" />
+1. Access the `1to10` chatbot from the `Apps` available in Slack under `GDS`
+<p align="center">
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/a1621aae-af6e-47ef-9db3-4d21ecdb195a" />
+</p>
 
-3. Start typing your query in the chatbox.
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/60f553b9-a9df-4564-8a10-67f67ca4a326" />
+2. Start typing your query in the chatbox.
+<p align="center">
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/60f553b9-a9df-4564-8a10-67f67ca4a326" />
+</p>
 
-4. Check the thread for the reply.
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/c1aa9d18-e9e7-4ca0-b7f3-72965fbee4df" />
+<h2><p align="center">It's that easy!</p></h2>
 
-5. It's that easy!
+### Example Usage
+
+See below for some cool examples of what you can ask:
+
+- Adding a user to a techpass group
+<p align="center">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/31bccb4a-c513-460d-b71a-728973c25bff" />
+</p>
+
+- Creating a static website with S3
+<p align="center">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/c5ef4967-dcc6-455d-ad68-88b81313cdaf" />
+</p>
+
+- Checking maintenance times and raising JIRA tickets
+<p align="center">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/b017a4fd-403b-4cf5-a09b-4f20aa85c00a" />
+</p>
+
+- Crafting eloquent jokes in the context of GovTech products and tools!
+<p align="center">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/ae74cdb3-c75f-4746-a217-a072b4b21c82" />
+</p>
 
 ## Next steps
 
