@@ -15,14 +15,14 @@ The SGTS (Singapore Government Tech Suite) offers a comprehensive ecosystem of t
 
 Despite extensive online documentation, developers struggle to adopt SGTS products. After consulting product managers, technical writers, and reviewing user queries, we identified key pain points:
 
-- **Incomplete Awareness**: Users struggle to properly assess and compare SGTS tools due to the sheer quantity of available solutions.
+- **Incomplete Awareness of Solutions**: Users struggle to properly assess and compare SGTS tools due to the sheer quantity of available solutions.
 - **Preference for Interactive Q&A**: For new information, developers favor conversational search over sifting through lengthy documentation.
 - **Siloed Support**: Cross-product queries spanning multiple teams are repeatedly redirected, increasing resolution times.
 - **Excessive Basic Queries**: Engineers and product managers are frequently distracted by routine questions, limiting focus on more innovative and strategic tasks.
 
 ## Product Features
 
-The SGTS Assistant bot leverages RAG techniques on the entire corpus of SGTS documents. It quickly retrieves the most relevant answers from our extensive library of guides, onboarding materials, and product descriptions. Users can now engage in natural language queries and receive precise, context-aware answers in real time.
+The SGTS Assistant bot leverages RAG techniques on the entire corpus of SGTS documents. It quickly retrieves the most relevant answers from our **extensive library of documentations and product descriptions**. Users can now engage in natural language queries and **receive precise, context-aware answers in real time**.
 
 Besides that, the SGTS Assistant offers additional features that other bots do not have. These unique features include:
 
