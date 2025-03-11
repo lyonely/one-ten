@@ -9,16 +9,16 @@
 
 ## Overview
 
-The SGTS (Singapore Government Tech Suite) has been a comprehensive ecosystem for various developer needs, featuring a wide range of tools and products. However, as the suite grew in complexity, we noticed growing challenges for developers in adopting these tools. Despite the extensive library of online documentation, developers still face challenges in onboarding these products and understanding their proper usage. In response, we have developed a LLM bot equipped with Retrieval-Augmented Generation (RAG) capabilities and agentic automation features. Available directly via Slack, this bot promises to significantly improve how developers and support teams interact with our documentation by providing a consolidated source of knowledge. This allow teams to then easily streamline their operations, and foster better integration across products.
+The SGTS (Singapore Government Tech Suite) offers a comprehensive ecosystem of tools for developers. However, growing complexity has made adoption challenging despite extensive documentation. To address this, we've developed an LLM bot with Retrieval-Augmented Generation (RAG) and agentic automation, accessible via Slack. This bot enhances documentation access, streamlining operations and improving product integration.
 
 ## Problem
 
-Despite available online documentation outlining what each SGTS product does, including how to onboard and use them, developers often find themselves struggling to adopt these products. After interviewing our product managers, technical writers and reviewing the queries raised by users, we identified the following key pain points:
+Despite extensive online documentation, developers struggle to adopt SGTS products. After consulting product managers, technical writers, and reviewing user queries, we identified key pain points:
 
-- **Incomplete Awareness**: With numerous SGTS products available, users found it difficult to understand and to weigh all the existing solutions that could be used.
-- **Preference for Interactive Q&A**: For finding new information, users generally favor interactive, conversational querying instead of combing through lengthy documentation.
-- **Siloed Support**: Questions that spanned multiple products were repeatedly routed to different teams, increasing turnaround times and complicating resolution processes.
-- **Excessive Basic Queries**: Product managers and engineers were frequently burdened with relatively basic queries, diverting their attention away from more innovative and strategic tasks.
+- **Incomplete Awareness**: Users struggle to properly assess and compare SGTS tools due to the sheer quantity of available solutions.
+- **Preference for Interactive Q&A**: For new information, developers favor conversational search over sifting through lengthy documentation.
+- **Siloed Support**: Cross-product queries spanning multiple teams are repeatedly redirected, increasing resolution times.
+- **Excessive Basic Queries**: Engineers and product managers are frequently distracted by routine questions, limiting focus on more innovative and strategic tasks.
 
 ## Product Features
 
