@@ -54,28 +54,28 @@ See below for some cool examples of what you can ask:
 
 ### Suggest SGTS Tools and Guide Onboarding
 <p align="center">
-<img width="400" alt="image" src="https://github.com/lyonely/one-ten/blob/main/images/demo_RAG.png?raw=true" />
+<img width="800" alt="image" src="https://github.com/lyonely/one-ten/blob/main/images/demo_RAG.png?raw=true" />
 </p>
 
 ### Fulfill Service Requests for TechPass
 <p align="center">
-<img width="400" alt="image" src="https://github.com/lyonely/one-ten/blob/main/images/demo_Techpass.png?raw=true" />
+<img width="800" alt="image" src="https://github.com/lyonely/one-ten/blob/main/images/demo_Techpass.png?raw=true" />
 </p>
 
 ### Propose Architecture and Solutions
 <p align="center">
-<img width="400" alt="image" src="https://github.com/lyonely/one-ten/blob/main/images/demo_architecture.png?raw=true" />
+<img width="800" alt="image" src="https://github.com/lyonely/one-ten/blob/main/images/demo_architecture.png?raw=true" />
 </p>
 
 ### Check Maintenance Times and Raise Incident Tickets
-<p align="left">
-<img width="400" alt="image" src="https://github.com/lyonely/one-ten/blob/main/images/demo_jira_1.png?raw=true" />
-<img width="400" alt="image" src="https://github.com/lyonely/one-ten/blob/main/images/demo_jira_2.png?raw=true" />
+<p align="center">
+<img width="800" alt="image" src="https://github.com/lyonely/one-ten/blob/main/images/demo_jira_1.png?raw=true" />
+<img width="800" alt="image" src="https://github.com/lyonely/one-ten/blob/main/images/demo_jira_2.png?raw=true" />
 </p>
 
 ### Craft Eloquent Jokes in the Context of GovTech Products and Tools!
 <p align="center">
-<img width="300" alt="image" src="https://github.com/lyonely/one-ten/blob/main/images/demo_joke.png?raw=true" />
+<img width="500" alt="image" src="https://github.com/lyonely/one-ten/blob/main/images/demo_joke.png?raw=true" />
 </p>
 
 ## Next steps
